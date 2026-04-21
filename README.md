@@ -3,9 +3,9 @@
 
 ![Banner](https://raw.githubusercontent.com/Lindiwe-Motlemekoane/Lindiwe-Motlemekoane/main/image.png)
 
-**Hi, I'm Lindiwe 👋**
+**Hi, I'm Lindiwe Stella**
 
-Data Science Master's student at Stellenbosch University with a background in Management Information Systems and Geoinformatics. Passionate about machine learning, data analytics, and ethical AI, with hands-on experience building predictive models and analysing real-world datasets.
+A Data Science Master's student at Stellenbosch University with a background in Management Information Systems and Geoinformatics. Passionate about machine learning, data analytics, and ethical AI, with hands-on experience building predictive models and analysing real-world datasets.
 
 
 ## Skills  
@@ -17,7 +17,7 @@ Data Science Master's student at Stellenbosch University with a background in Ma
 
 
 ## Projects  
-Welcome to my portfoli, where I showcase my projects. 
+Welcome to my portfolio, where I showcase my projects. 
 
 
 ## Currently Learning  
