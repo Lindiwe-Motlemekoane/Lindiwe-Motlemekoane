@@ -1,11 +1,9 @@
-# Hi, I'm Lindiwe 👋
 
+<div align="center">
 <img src="https://raw.githubusercontent.com/Lindiwe-Motlemekoane/Lindiwe-Motlemekoane/main/image.png" width="100%" />
-
-
-🎓 Data Science Master's student at Stellenbosch University  
-💡 Background in Management Information Systems & Geoinformatics  
-📊 Interested in Machine Learning, Data Analytics, and Data Ethics  
+</div>
+# Hi, I'm Lindiwe 👋
+A Data Science Master's student at Stellenbosch University with a background in Management Information Systems & Geoinformatics. Interested in Machine Learning, Data Analytics, and Data Ethics.  
 
 
 ## Skills  
