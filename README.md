@@ -9,7 +9,7 @@ A Data Science Master's student at Stellenbosch University with a background in 
  
 
 ## Projects  
-Welcome to my portfolio, where I showcase my projects. 
+Welcome to my portfolio, where I showcase my [projects](https://github.com/Lindiwe-Motlemekoane/Portfolio-Guide).
 
 
 ## Currently Learning:   
