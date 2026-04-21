@@ -1,8 +1,7 @@
 
-<div align="center">
+<p align="center">
 <img src="https://raw.githubusercontent.com/Lindiwe-Motlemekoane/Lindiwe-Motlemekoane/main/image.png" width="100%" />
-</div>
-# Hi, I'm Lindiwe 👋
+</p><h2>Hi, I'm Lindiwe 👋</h2>
 A Data Science Master's student at Stellenbosch University with a background in Management Information Systems & Geoinformatics. Interested in Machine Learning, Data Analytics, and Data Ethics.  
 
 
