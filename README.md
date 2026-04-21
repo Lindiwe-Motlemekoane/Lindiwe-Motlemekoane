@@ -6,15 +6,7 @@
 **Hi, I'm Lindiwe Stella**
 
 A Data Science Master's student at Stellenbosch University with a background in Management Information Systems and Geoinformatics. Passionate about machine learning, data analytics, and ethical AI, with hands-on experience building predictive models and analysing real-world datasets.
-
-
-## Skills  
-
-- **Programming:** Python, R, SQL  
-- **Machine Learning:** PCA, Decision Trees, Random Forests and other algorithms 
-- **Data Analysis:** EDA, Data Cleaning, Feature Engineering  
-- **Tools & Platforms:** Pandas, Scikit-learn, Matplotlib, Databricks, RapidMiner, Orange  
-
+ 
 
 ## Projects  
 Welcome to my portfolio, where I showcase my projects. 
