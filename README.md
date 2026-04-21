@@ -1,4 +1,38 @@
-## Hi there 👋
+# Hi, I'm Lindiwe 👋
+
+🎓 Data Science Master's student at Stellenbosch University  
+💡 Background in Management Information Systems & Geoinformatics  
+📊 Interested in Machine Learning, Data Analytics, and Data Ethics  
+
+
+## Skills  
+
+- **Programming:** Python, R, SQL  
+- **Machine Learning:** PCA, Decision Trees, Random Forests and other algorithms 
+- **Data Analysis:** EDA, Data Cleaning, Feature Engineering  
+- **Tools & Platforms:** Pandas, Scikit-learn, Matplotlib, Databricks, RapidMiner, Orange  
+
+
+## Projects  
+Welcome to my portfoli, where I showcase my projects. 
+
+
+## Currently Learning  
+
+- Applied Machine Learning  
+- Deep Learning
+- Big Data Technologies
+- Data Analytics
+- Project Management
+- Project Economics and Finance  
+
+
+
+## Connect with me  
+
+- LinkedIn: www.linkedin.com/in/lindiwe-motlemekoane-47020221b  
+
+
 
 <!--
 **Lindiwe-Motlemekoane/Lindiwe-Motlemekoane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
